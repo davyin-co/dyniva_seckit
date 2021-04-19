@@ -2,4 +2,4 @@ name: Dyniva Security Kit
 type: module
 description: '启用强密码策略'
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
